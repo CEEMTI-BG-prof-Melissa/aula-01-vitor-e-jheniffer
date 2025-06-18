@@ -20,5 +20,5 @@ li:nth-child(odd){
   color: lightblue;
 }
 li:nth-child(even){
-  background-color:purple;
+  background-color:lavender;
 }
