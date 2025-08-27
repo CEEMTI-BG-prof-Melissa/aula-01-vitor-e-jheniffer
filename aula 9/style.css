@@ -1,0 +1,29 @@
+a:hover{
+  color: brown;
+}
+a:link{
+  color: blue;
+}
+a:visited{
+  color: yellow;
+}
+a:focus{
+  color: red;
+}
+li:first-child{
+  font-weight: bold;
+}
+li:last-child{
+  color: green;
+}
+li:nth-child(odd){
+  color: lightblue;
+}
+li:nth-child(even){
+  background-color:lavender;
+}
+input[required],
+textarea[required]{
+  
+  border:3px gradient pink;
+}
