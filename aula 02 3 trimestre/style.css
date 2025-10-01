@@ -14,42 +14,48 @@
 #div3 {
   padding: 50px;
   margin: 10px;
-  
+  background-repeat: no-repeat;
+  background-image: url("makeitmeme_QYWId.jpeg");
   
 }
 
 #div4 {
   padding: 50px;
   margin: 10px;
-  
+  background-size: cover;
+  background-image: url("makeitmeme_QYWId.jpeg");
   
 }
 
 #div5 {
   padding: 50px;
   margin: 10px;
-  
+  background-image: url("makeitmeme_QYWId.jpeg");
   
 }
 
 #div6 {
   padding: 50px;
   margin: 10px;
-  
+  background-repeat: no-repeat;
+  background-origin: padding-box;
+  background-image: url("makeitmeme_QYWId.jpeg");
   
 }
 
 #div7 {
   padding: 50px;
   margin: 10px;
-  
-  
+  background-repeat: no-repeat;
+  background-image: url("makeitmeme_QYWId.jpeg");
+  background-origin: border-box;
 }
 
 #div8 {
   padding: 50px;
   margin: 10px;
-  
+  background-image: url("makeitmeme_QYWId.jpeg");
+  background-repeat: no-repeat;
   
 }
 
